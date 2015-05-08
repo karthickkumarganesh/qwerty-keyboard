@@ -27,7 +27,7 @@
 					</button></td>
 					<td>
 					<button class="btn btn-success" value="3">
-						<span>3 <span> def</span>
+						<span>3 </span> <span>def</span>
 					</button></td>
 				</tr>
 				<tr>
